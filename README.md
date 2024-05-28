@@ -2,7 +2,7 @@
 
 ## Introduction 🌟
 
-![image](https://github.com/bhushanap/gameAI_Isolation/assets/83635464/63fa1200-abf8-4e2d-b3bf-d03a7a692e5d)
+![image](https://github.com/bhushanap/gameAI_Isolation/assets/83635464/9be6471e-7870-4b97-a836-c39df9c07d4f)
 
 Skid Isolation is a two-player turn-based game played on a 7-by-7 grid. Each player has a piece that moves like a queen in chess, and after each move, the squares traversed are blocked, becoming unusable for the rest of the game. The objective is to force the opponent into a position where they cannot make a move.
 
@@ -44,6 +44,9 @@ The AI agent was tested against other agents with varying strategies and search 
 - Performance: The AI completed moves within 2 seconds.
 - Effectiveness: It defeated other agents, which searched the game tree up to 8 moves deep, more than 70% of the time.
 - Potential Improvements: The performance could be enhanced by incorporating a specialized dictionary for endgame and opening states, though the current approach avoids storing game states in memory.
+
+![image](https://github.com/bhushanap/gameAI_Isolation/assets/83635464/3c24698c-6d46-4a59-962a-f91a3b6ee58b)
+
 
 ## How to Run the Game 🕹️
 
