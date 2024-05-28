@@ -53,11 +53,14 @@ Play the Game: Open isolation.html in a Javascript compatible browser to start p
 
 Grid size:
     `What should the size of the square grid be?`
+
 Search tree nodes:
     `How deep should the search tree before AI makes a move. Larger numbers will make the computer slow but will result in a more competitive opponent.`
+
 v/s AI or player?:
     ```AI: Choose to play against the AI agent and see if you can outmaneuver it.
     Player: Two human players compete to win.```
+
 AI to go first?:
     ```AI first: If AI should make the first move
     AI second: If human player should make the first move```
