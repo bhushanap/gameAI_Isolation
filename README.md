@@ -1,5 +1,7 @@
 # Skid Isolation Game AI 🎮
 
+![demo](https://github.com/user-attachments/assets/be28ce9a-2019-47d5-b9c4-110d8f86b7bf)
+
 ## Introduction 🌟
 
 ![image](https://github.com/bhushanap/gameAI_Isolation/assets/83635464/9be6471e-7870-4b97-a836-c39df9c07d4f)
